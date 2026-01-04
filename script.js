@@ -28,7 +28,7 @@ const screens = [
   },
   {
     id: "s4a",
-    title: "Gülüşlerimizin 😄 ",
+    title: "Mutlu olduğumuz anlar ",
     text: "Bazen tek bir bakışın bile yeterli olduğu anlar var ya… İşte o anlar benim favorim.",
     image: "assets/4.jpeg",
     next: "s5"
