@@ -5,20 +5,20 @@ const screens = [
   {
     id: "s1",
     title: "Büşra… 💛",
-    text: "Bugün senin günün. 7 küçük ekranda, bizim küçük ama çok değerli hikâyemizi gezelim mi?",
+    text: "Bugün senin günün. 7 küçük ekranda, bizim çok değerli hikâyemizi gezelim mi?",
     image: "assets/1.jpeg", // örn: "assets/1.jpg"
     next: "s2"
   },
   {
     id: "s2",
     title: "Başlangıç ✨",
-    text: "Her şeyin başladığı o an… Benim için hala çok net.",
+    text: "Her şeyin başladığı o an… Benim için hala çok net ve hayranlık dolu...",
     image: "assets/2.jpeg",
     next: "s3"
   },
   {
     id: "s3",
-    title: "Mini seçim 🎯",
+    title: "Ufak bir seçim zamanı",
     text: "Sence biz en çok neyle güçleniyoruz?",
     image: "assets/3.jpeg",
     choices: [
@@ -28,7 +28,7 @@ const screens = [
   },
   {
     id: "s4a",
-    title: "Gülüşlerimizin gücü 😄",
+    title: "Gülüşlerimizin 😄 ",
     text: "Bazen tek bir bakışın bile yeterli olduğu anlar var ya… İşte o anlar benim favorim.",
     image: "assets/4.jpeg",
     next: "s5"
@@ -42,8 +42,8 @@ const screens = [
   },
   {
     id: "s5",
-    title: "Küçük bir puzzle 🧩",
-    text: "Mini bir görev: Ekranın altındaki butona basınca ‘sevgi puanı’ artacak. Hazır mısın?",
+    title: "Küçük bir oyun 🧩",
+    text: "Mini bir görev: Ekranın altındaki butona basınca ‘sevgi puanı’ artacak. Hazır mısın? (Allah'ın hakkı 3'tür)",
     image: "assets/6.jpeg",
     next: "s6",
     bonus: true
@@ -67,7 +67,7 @@ const screens = [
   },
   {
     id: "s7_fun",
-    title: "Doğum günü modu: ON 😂🎂",
+    title: "Eylence başlasın! 😂🎂",
     text: "Bugün her şey serbest: gülmek, sarılmak, pasta yemek… ve benden sınırsız iltifat almak! İyi ki doğdun! Seni çok seviyorum 💛",
     image: "assets/9.jpeg",
     next: null
